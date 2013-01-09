@@ -1,2 +1,2 @@
 ##Objects on Rails
-(http://objectsonrails.com/ "objects on rails")
+[Objects On Rails](http://objectsonrails.com/)
